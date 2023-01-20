@@ -1,0 +1,29 @@
+66 games. 343 checks, 4 promotions. 3142 pairs of moves => 47.61 per game. Draws-Chess: 30 => 45.45 %. Draws-Chpok: 3 => 4.55 %.
+ Chess White/Black wins: 23 / 13 => 1.769
+ Chpok White/Black wins: 37 / 26 => 1.423
+
+  7 "Naiditsch,A"
+  7 "Rapport,R"
+  9 "Gelfand,B"
+ 10 "Nakamura,Hi"
+ 10 "Van Wely,L"
+ 11 "Harikrishna,P"
+ 12 "Caruana,F"
+ 12 "Dominguez Perez,L"
+ 12 "So,W"
+ 13 "Giri,A"
+ 13 "Karjakin,Sergey"
+ 16 "Aronian,L"
+
+  5 "Nakamura,Hi"
+  8 "Aronian,L"
+  8 "Gelfand,B"
+ 10 "Caruana,F"
+ 10 "So,W"
+ 10 "Van Wely,L"
+ 11 "Giri,A"
+ 12 "Harikrishna,P"
+ 13 "Karjakin,Sergey"
+ 14 "Naiditsch,A"
+ 14 "Rapport,R"
+ 17 "Dominguez Perez,L"

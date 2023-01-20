@@ -1,0 +1,33 @@
+91 games. 411 checks, 5 promotions. 4103 pairs of moves => 45.09 per game. Draws-Chess: 61 => 67.03 %. Draws-Chpok: 2 => 2.2 %.
+ Chess White/Black wins: 22 / 8 => 2.75
+ Chpok White/Black wins: 46 / 43 => 1.07
+
+ 10 "Adams,Mi"
+ 10 "Hou Yifan"
+ 10 "Van Wely,L"
+ 11 "Navara,D"
+ 11 "Tomashevsky,E"
+ 12 "Karjakin,Sergey"
+ 13 "Mamedyarov,S"
+ 13 "Wei Yi"
+ 14 "Eljanov,P"
+ 14 "Giri,A"
+ 14 "So,W"
+ 16 "Caruana,F"
+ 16 "Ding Liren"
+ 18 "Carlsen,M"
+
+  4 "Hou Yifan"
+  7 "Mamedyarov,S"
+  8 "Giri,A"
+ 10 "Wei Yi"
+ 11 "Navara,D"
+ 12 "So,W"
+ 14 "Adams,Mi"
+ 14 "Karjakin,Sergey"
+ 16 "Caruana,F"
+ 16 "Tomashevsky,E"
+ 16 "Van Wely,L"
+ 18 "Carlsen,M"
+ 18 "Ding Liren"
+ 18 "Eljanov,P"

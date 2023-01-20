@@ -1,0 +1,33 @@
+91 games. 365 checks, 1 promotions. 3788 pairs of moves => 41.63 per game. Draws-Chess: 55 => 60.44 %. Draws-Chpok: 4 => 4.4 %.
+ Chess White/Black wins: 25 / 11 => 2.273
+ Chpok White/Black wins: 58 / 29 => 2.0
+
+  5 "Hou, Yifan"
+  7 "Adhiban, Baskaran"
+ 10 "Caruana, Fabiano"
+ 10 "Jones, Gawain C B"
+ 10 "Matlakov, Maxim"
+ 11 "Wei, Yi"
+ 12 "Svidler, Peter"
+ 15 "Karjakin, Sergey"
+ 16 "Anand, Viswanathan"
+ 16 "So, Wesley"
+ 17 "Kramnik, Vladimir"
+ 17 "Mamedyarov, Shakhriyar"
+ 18 "Carlsen, Magnus"
+ 18 "Giri, Anish"
+
+  6 "Hou, Yifan"
+  6 "Wei, Yi"
+ 10 "Anand, Viswanathan"
+ 12 "Adhiban, Baskaran"
+ 13 "Matlakov, Maxim"
+ 14 "Carlsen, Magnus"
+ 14 "Caruana, Fabiano"
+ 14 "Jones, Gawain C B"
+ 14 "Kramnik, Vladimir"
+ 14 "Svidler, Peter"
+ 15 "Giri, Anish"
+ 16 "So, Wesley"
+ 17 "Karjakin, Sergey"
+ 17 "Mamedyarov, Shakhriyar"

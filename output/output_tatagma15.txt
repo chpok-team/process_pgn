@@ -1,0 +1,33 @@
+91 games. 528 checks, 4 promotions. 4078 pairs of moves => 44.81 per game. Draws-Chess: 45 => 49.45 %. Draws-Chpok: 2 => 2.2 %.
+ Chess White/Black wins: 28 / 18 => 1.556
+ Chpok White/Black wins: 47 / 42 => 1.119
+
+  6 "Jobava, Baadur"
+  8 "Van Wely, Loek"
+  9 "Saric, Ivan"
+ 10 "Hou, Yifan"
+ 11 "Aronian, Levon"
+ 11 "Wojtaszek, Radoslaw"
+ 12 "Radjabov, Teimour"
+ 14 "Caruana, Fabiano"
+ 15 "Ivanchuk, Vassily"
+ 17 "Ding, Liren"
+ 17 "Giri, Anish"
+ 17 "So, Wesley"
+ 17 "Vachier-Lagrave, Maxime"
+ 18 "Carlsen, Magnus"
+
+  7 "Saric, Ivan"
+  8 "Carlsen, Magnus"
+ 10 "Ding, Liren"
+ 10 "Wojtaszek, Radoslaw"
+ 13 "Caruana, Fabiano"
+ 14 "Aronian, Levon"
+ 14 "Giri, Anish"
+ 14 "Ivanchuk, Vassily"
+ 14 "Radjabov, Teimour"
+ 14 "Van Wely, Loek"
+ 15 "Hou, Yifan"
+ 16 "Jobava, Baadur"
+ 16 "Vachier-Lagrave, Maxime"
+ 17 "So, Wesley"

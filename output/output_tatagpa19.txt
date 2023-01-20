@@ -1,0 +1,33 @@
+91 games. 420 checks, 2 promotions. 3848 pairs of moves => 42.29 per game. Draws-Chess: 54 => 59.34 %. Draws-Chpok: 4 => 4.4 %.
+ Chess White/Black wins: 20 / 17 => 1.176
+ Chpok White/Black wins: 48 / 39 => 1.231
+
+  9 "Kramnik, Vladimir"
+  9 "Van Foreest, Jorden"
+ 10 "Fedoseev, Vladimir3"
+ 10 "Mamedyarov, Shakhriyar"
+ 11 "Duda, Jan-Krzysztof"
+ 13 "Radjabov, Teimour"
+ 13 "Rapport, Richard"
+ 13 "Shankland, Samuel"
+ 14 "Vidit, Santosh Gujrathi"
+ 15 "Anand, Viswanathan"
+ 15 "Ding, Liren"
+ 15 "Nepomniachtchi, Ian"
+ 17 "Giri, Anish"
+ 18 "Carlsen, Magnus"
+
+  7 "Carlsen, Magnus"
+  8 "Fedoseev, Vladimir3"
+  9 "Mamedyarov, Shakhriyar"
+ 10 "Shankland, Samuel"
+ 11 "Ding, Liren"
+ 11 "Radjabov, Teimour"
+ 12 "Rapport, Richard"
+ 16 "Duda, Jan-Krzysztof"
+ 16 "Giri, Anish"
+ 16 "Kramnik, Vladimir"
+ 16 "Nepomniachtchi, Ian"
+ 16 "Vidit, Santosh Gujrathi"
+ 17 "Anand, Viswanathan"
+ 17 "Van Foreest, Jorden"

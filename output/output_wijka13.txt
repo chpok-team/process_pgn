@@ -1,0 +1,33 @@
+91 games. 376 checks, 3 promotions. 4175 pairs of moves => 45.88 per game. Draws-Chess: 50 => 54.95 %. Draws-Chpok: 4 => 4.4 %.
+ Chess White/Black wins: 28 / 13 => 2.154
+ Chpok White/Black wins: 45 / 42 => 1.071
+
+  6 "Sokolov, Ivan"
+  8 "L'Ami, Erwin"
+ 10 "Caruana, Fabiano"
+ 11 "Hou, Yifan"
+ 12 "Giri, Anish"
+ 12 "Van Wely, Loek"
+ 12 "Wang, Hao"
+ 13 "Harikrishna, Pentala"
+ 14 "Nakamura, Hikaru"
+ 15 "Leko, Peter"
+ 16 "Anand, Viswanathan"
+ 16 "Karjakin, Sergey"
+ 17 "Aronian, Levon"
+ 20 "Carlsen, Magnus"
+
+  4 "Giri, Anish"
+  6 "L'Ami, Erwin"
+  8 "Caruana, Fabiano"
+  9 "Van Wely, Loek"
+ 12 "Harikrishna, Pentala"
+ 14 "Karjakin, Sergey"
+ 15 "Carlsen, Magnus"
+ 15 "Leko, Peter"
+ 16 "Anand, Viswanathan"
+ 16 "Aronian, Levon"
+ 16 "Hou, Yifan"
+ 16 "Nakamura, Hikaru"
+ 16 "Wang, Hao"
+ 19 "Sokolov, Ivan"
