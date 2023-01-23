@@ -5,10 +5,30 @@ curW = curB = curRes = curLog = ""
 numGames = numMoves = numProms = numChecks = numPro0 = numChk0 = 0
 numDrawsChess = numWinsChessW = numWinsChessB = 0
 numDrawsChpok = numWinsChpokW = numWinsChpokB = 0
+
+def findName(n):
+	names = n.split(',')
+	if len(names)==1:  names = n.split(' ')
+	lastName = names[0].strip()
+	firstName = names[1].strip()
+	n = lastName + ', ' + firstName
+	if n in sumsChess:  return n
+	for k in sumsChess.keys():
+		if k.startswith(n):  # k is longer than n
+			return k
+		if n.startswith(k):  # n is longer than k
+			sumsChess[n] = sumsChess[k]
+			sumsChpok[n] = sumsChpok[k]
+			sumsChess.pop(k)  # remove the shorter one
+			sumsChpok.pop(k)
+			return n
+	sumsChess[n],sumsChpok[n] = 0,0
+	return n
+	
 for li in f:
 	if li[0]=='[':
-		if   li[1:7]=='White ':  curW = li[7:-2]
-		elif li[1:7]=='Black ':  curB = li[7:-2]
+		if   li[1:7]=='White ':  curW = li[8:-3]
+		elif li[1:7]=='Black ':  curB = li[8:-3]
 		elif li[1:7]=='Result':  curRes,curLog = li[9:-3],""
 	elif len(li)!=1:  curLog += li.strip() + ' '
 	elif len(curLog):
@@ -16,8 +36,8 @@ for li in f:
 		for x in curLog:
 			if x=="=":     numPro0 += 1
 			if x in "+#":  numChk0 += 1
-		if not (curW in sumsChess):  sumsChess[curW],sumsChpok[curW] = 0,0
-		if not (curB in sumsChess):  sumsChess[curB],sumsChpok[curB] = 0,0
+		curW = findName(curW)
+		curB = findName(curB)
 
 		if curRes=='1/2-1/2':  upd1,upd2,numDrawsChess = curW,curB,numDrawsChess+1
 		elif curRes=='1-0':    upd1,upd2,numWinsChessW = curW,curW,numWinsChessW+1
@@ -67,13 +87,13 @@ if 1:
 	print(" Chess White/Black wins:", numWinsChessW, "/", numWinsChessB, "=>", round(1000*numWinsChessW/numWinsChessB)/1000)
 	print(" Chpok White/Black wins:", numWinsChpokW, "/", numWinsChpokB, "=>", round(1000*numWinsChpokW/numWinsChpokB)/1000)
 if 1:
-	def printSorted(inp):
+	def printSorted(inp,game):
 		res = []
 		for x in inp.keys():
 			x1 = str(inp[x])
-			res.append((' ' if len(x1)==2 else '  ') + x1 + " " + x)
-		res = sorted(res)
-		print()
-		for x in res: print(x)
-	printSorted(sumsChess)
-	printSorted(sumsChpok)
+			res.append('    '[len(x1):] + x1 + "  " + x)
+		res = reversed(sorted(res))
+		print(game)
+		for x in res: print('    ', x)
+	printSorted(sumsChess,"Chess:")
+	printSorted(sumsChpok,"Chpok:")
