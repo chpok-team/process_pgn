@@ -1,33 +1,33 @@
 91 games. 427 checks, 5 promotions. 3737 pairs of moves => 41.07 per game. Draws-Chess: 59 => 64.84 %. Draws-Chpok: 4 => 4.4 %.
  Chess White/Black wins: 25 / 7 => 3.571
  Chpok White/Black wins: 51 / 36 => 1.417
-
-  8 "Kovalev, Vladislav"
-  9 "Yu, Yangyi"
- 10 "Vitiugov, Nikita"
- 12 "Artemiev, Vladislav"
- 12 "Xiong, Jeffery"
- 13 "Anand, Viswanathan"
- 13 "Duda, Jan-Krzysztof"
- 13 "Firouzja, Alireza"
- 13 "Giri, Anish"
- 14 "Dubov, Daniil"
- 14 "Van Foreest, Jorden"
- 15 "So, Wesley"
- 16 "Carlsen, Magnus"
- 20 "Caruana, Fabiano"
-
-  7 "So, Wesley"
-  8 "Vitiugov, Nikita"
-  9 "Giri, Anish"
- 10 "Artemiev, Vladislav"
- 10 "Kovalev, Vladislav"
- 12 "Firouzja, Alireza"
- 12 "Xiong, Jeffery"
- 14 "Van Foreest, Jorden"
- 14 "Yu, Yangyi"
- 15 "Anand, Viswanathan"
- 15 "Duda, Jan-Krzysztof"
- 16 "Carlsen, Magnus"
- 20 "Caruana, Fabiano"
- 20 "Dubov, Daniil"
+Chess:
+       20  Caruana, Fabiano
+       16  Carlsen, Magnus
+       15  So, Wesley
+       14  Van Foreest, Jorden
+       14  Dubov, Daniil
+       13  Giri, Anish
+       13  Firouzja, Alireza
+       13  Duda, Jan-Krzysztof
+       13  Anand, Viswanathan
+       12  Xiong, Jeffery
+       12  Artemiev, Vladislav
+       10  Vitiugov, Nikita
+        9  Yu, Yangyi
+        8  Kovalev, Vladislav
+Chpok:
+       20  Dubov, Daniil
+       20  Caruana, Fabiano
+       16  Carlsen, Magnus
+       15  Duda, Jan-Krzysztof
+       15  Anand, Viswanathan
+       14  Yu, Yangyi
+       14  Van Foreest, Jorden
+       12  Xiong, Jeffery
+       12  Firouzja, Alireza
+       10  Kovalev, Vladislav
+       10  Artemiev, Vladislav
+        9  Giri, Anish
+        8  Vitiugov, Nikita
+        7  So, Wesley

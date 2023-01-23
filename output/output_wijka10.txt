@@ -1,33 +1,33 @@
 91 games. 423 checks, 5 promotions. 3808 pairs of moves => 41.85 per game. Draws-Chess: 57 => 62.64 %. Draws-Chpok: 1 => 1.1 %.
  Chess White/Black wins: 24 / 10 => 2.4
  Chpok White/Black wins: 40 / 50 => 0.8
-
-  9 "Smeets,J"
-  9 "Tiviakov,S"
- 10 "Short,N"
- 10 "Van Wely,L"
- 11 "Caruana,F"
- 13 "Dominguez Perez,L"
- 13 "Leko,P"
- 14 "Ivanchuk,V"
- 14 "Karjakin,Sergey"
- 15 "Anand,V"
- 15 "Nakamura,Hi"
- 16 "Kramnik,V"
- 16 "Shirov,A"
- 17 "Carlsen,M"
-
-  8 "Smeets,J"
-  9 "Dominguez Perez,L"
- 10 "Ivanchuk,V"
- 10 "Karjakin,Sergey"
- 12 "Carlsen,M"
- 12 "Caruana,F"
- 12 "Van Wely,L"
- 14 "Kramnik,V"
- 14 "Short,N"
- 15 "Tiviakov,S"
- 16 "Anand,V"
- 16 "Nakamura,Hi"
- 16 "Shirov,A"
- 18 "Leko,P"
+Chess:
+       17  Carlsen, M
+       16  Shirov, A
+       16  Kramnik, V
+       15  Nakamura, Hi
+       15  Anand, V
+       14  Karjakin, Sergey
+       14  Ivanchuk, V
+       13  Leko, P
+       13  Dominguez Perez, L
+       11  Caruana, F
+       10  Van Wely, L
+       10  Short, N
+        9  Tiviakov, S
+        9  Smeets, J
+Chpok:
+       18  Leko, P
+       16  Shirov, A
+       16  Nakamura, Hi
+       16  Anand, V
+       15  Tiviakov, S
+       14  Short, N
+       14  Kramnik, V
+       12  Van Wely, L
+       12  Caruana, F
+       12  Carlsen, M
+       10  Karjakin, Sergey
+       10  Ivanchuk, V
+        9  Dominguez Perez, L
+        8  Smeets, J

@@ -1,33 +1,33 @@
 91 games. 444 checks, 5 promotions. 3742 pairs of moves => 41.12 per game. Draws-Chess: 53 => 58.24 %. Draws-Chpok: 5 => 5.49 %.
  Chess White/Black wins: 20 / 18 => 1.111
  Chpok White/Black wins: 44 / 42 => 1.048
-
-  8 "Shirov, Alexei"
-  9 "Grischuk, Alexander"
-  9 "L'Ami, Erwin"
-  9 "Smeets, Jan"
- 12 "Nepomniachtchi, Ian"
- 12 "Wang, Hao"
- 13 "Giri, Anish"
- 13 "Ponomariov, Ruslan"
- 15 "Kramnik, Vladimir"
- 15 "Vachier-Lagrave, Maxime"
- 16 "Aronian, Levon"
- 16 "Carlsen, Magnus"
- 17 "Anand, Viswanathan"
- 18 "Nakamura, Hikaru"
-
-  4 "Nakamura, Hikaru"
-  9 "Giri, Anish"
- 10 "Shirov, Alexei"
- 10 "Smeets, Jan"
- 11 "Carlsen, Magnus"
- 11 "Wang, Hao"
- 13 "L'Ami, Erwin"
- 14 "Grischuk, Alexander"
- 14 "Kramnik, Vladimir"
- 14 "Vachier-Lagrave, Maxime"
- 16 "Nepomniachtchi, Ian"
- 18 "Anand, Viswanathan"
- 18 "Ponomariov, Ruslan"
- 20 "Aronian, Levon"
+Chess:
+       18  Nakamura, Hikaru
+       17  Anand, Viswanathan
+       16  Carlsen, Magnus
+       16  Aronian, Levon
+       15  Vachier-Lagrave, Maxime
+       15  Kramnik, Vladimir
+       13  Ponomariov, Ruslan
+       13  Giri, Anish
+       12  Wang, Hao
+       12  Nepomniachtchi, Ian
+        9  Smeets, Jan
+        9  L'Ami, Erwin
+        9  Grischuk, Alexander
+        8  Shirov, Alexei
+Chpok:
+       20  Aronian, Levon
+       18  Ponomariov, Ruslan
+       18  Anand, Viswanathan
+       16  Nepomniachtchi, Ian
+       14  Vachier-Lagrave, Maxime
+       14  Kramnik, Vladimir
+       14  Grischuk, Alexander
+       13  L'Ami, Erwin
+       11  Wang, Hao
+       11  Carlsen, Magnus
+       10  Smeets, Jan
+       10  Shirov, Alexei
+        9  Giri, Anish
+        4  Nakamura, Hikaru

@@ -1,33 +1,33 @@
 91 games. 463 checks, 9 promotions. 4011 pairs of moves => 44.08 per game. Draws-Chess: 57 => 62.64 %. Draws-Chpok: 3 => 3.3 %.
  Chess White/Black wins: 23 / 11 => 2.091
  Chpok White/Black wins: 49 / 39 => 1.256
-
-  7 "Van Wely, Loek"
-  9 "Rapport, Richard"
- 10 "Nepomniachtchi, Ian"
- 12 "Andreikin, Dmitry"
- 12 "Harikrishna, Pentala"
- 12 "Wojtaszek, Radoslaw"
- 13 "Giri, Anish"
- 14 "Eljanov, Pavel"
- 14 "Karjakin, Sergey"
- 15 "Adhiban, Baskaran"
- 15 "Aronian, Levon"
- 15 "Wei, Yi"
- 16 "Carlsen, Magnus"
- 18 "So, Wesley"
-
- 10 "Harikrishna, Pentala"
- 10 "Karjakin, Sergey"
- 11 "Wojtaszek, Radoslaw"
- 12 "Adhiban, Baskaran"
- 12 "Eljanov, Pavel"
- 12 "Giri, Anish"
- 12 "Rapport, Richard"
- 13 "Andreikin, Dmitry"
- 13 "Nepomniachtchi, Ian"
- 14 "Van Wely, Loek"
- 14 "Wei, Yi"
- 15 "So, Wesley"
- 16 "Carlsen, Magnus"
- 18 "Aronian, Levon"
+Chess:
+       18  So, Wesley
+       16  Carlsen, Magnus
+       15  Wei, Yi
+       15  Aronian, Levon
+       15  Adhiban, Baskaran
+       14  Karjakin, Sergey
+       14  Eljanov, Pavel
+       13  Giri, Anish
+       12  Wojtaszek, Radoslaw
+       12  Harikrishna, Pentala
+       12  Andreikin, Dmitry
+       10  Nepomniachtchi, Ian
+        9  Rapport, Richard
+        7  Van Wely, Loek
+Chpok:
+       18  Aronian, Levon
+       16  Carlsen, Magnus
+       15  So, Wesley
+       14  Wei, Yi
+       14  Van Wely, Loek
+       13  Nepomniachtchi, Ian
+       13  Andreikin, Dmitry
+       12  Rapport, Richard
+       12  Giri, Anish
+       12  Eljanov, Pavel
+       12  Adhiban, Baskaran
+       11  Wojtaszek, Radoslaw
+       10  Karjakin, Sergey
+       10  Harikrishna, Pentala

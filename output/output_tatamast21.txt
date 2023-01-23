@@ -1,33 +1,33 @@
 91 games. 401 checks, 3 promotions. 4159 pairs of moves => 45.7 per game. Draws-Chess: 62 => 68.13 %. Draws-Chpok: 1 => 1.1 %.
  Chess White/Black wins: 20 / 9 => 2.222
  Chpok White/Black wins: 43 / 47 => 0.915
-
-  7 "Donchenko, Alexander"
- 10 "Anton Guijarro, David"
- 10 "Vachier-Lagrave, Maxime"
- 10 "Wojtaszek, Radoslaw"
- 11 "Duda, Jan-Krzysztof"
- 12 "Grandelius, Nils"
- 12 "Tari, Aryan"
- 13 "Harikrishna, Pentala"
- 15 "Carlsen, Magnus"
- 16 "Caruana, Fabiano"
- 16 "Esipenko, Andrey"
- 16 "Firouzja, Alireza"
- 17 "Giri, Anish"
- 17 "Van Foreest, Jorden"
-
-  8 "Grandelius, Nils"
- 10 "Harikrishna, Pentala"
- 10 "Vachier-Lagrave, Maxime"
- 10 "Wojtaszek, Radoslaw"
- 12 "Anton Guijarro, David"
- 12 "Firouzja, Alireza"
- 13 "Esipenko, Andrey"
- 14 "Giri, Anish"
- 14 "Tari, Aryan"
- 14 "Van Foreest, Jorden"
- 16 "Carlsen, Magnus"
- 16 "Caruana, Fabiano"
- 16 "Duda, Jan-Krzysztof"
- 17 "Donchenko, Alexander"
+Chess:
+       17  Van Foreest, Jorden
+       17  Giri, Anish
+       16  Firouzja, Alireza
+       16  Esipenko, Andrey
+       16  Caruana, Fabiano
+       15  Carlsen, Magnus
+       13  Harikrishna, Pentala
+       12  Tari, Aryan
+       12  Grandelius, Nils
+       11  Duda, Jan-Krzysztof
+       10  Wojtaszek, Radoslaw
+       10  Vachier-Lagrave, Maxime
+       10  Anton Guijarro, David
+        7  Donchenko, Alexander
+Chpok:
+       17  Donchenko, Alexander
+       16  Duda, Jan-Krzysztof
+       16  Caruana, Fabiano
+       16  Carlsen, Magnus
+       14  Van Foreest, Jorden
+       14  Tari, Aryan
+       14  Giri, Anish
+       13  Esipenko, Andrey
+       12  Firouzja, Alireza
+       12  Anton Guijarro, David
+       10  Wojtaszek, Radoslaw
+       10  Vachier-Lagrave, Maxime
+       10  Harikrishna, Pentala
+        8  Grandelius, Nils
