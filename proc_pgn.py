@@ -84,7 +84,7 @@ assert(numPro0==numProms)
 assert(numChk0==numChecks)
 assert(numMoves%2==0)
 print(numGames, "games.", numChecks, "checks,", numProms, "promotions.", numMoves>>1, "pairs of moves =>", round(50*numMoves/numGames)/100, "per game.", end='')
-print(" Draws-Chess:", numDrawsChess, "=>", round(10000*numDrawsChess/numGames)/100, "%.", end='')
+print(" Draws-Chess:", numDrawsChess, "=>", round(10000*numDrawsChess/numGames)/100, "%,", end='')
 print(" Draws-Chpok:", numDrawsChpok, "=>", round(10000*numDrawsChpok/numGames)/100, "%.")
 if 1:
 	print(" Chess White/Black wins:", numWinsChessW, "/", numWinsChessB, "=>", round(1000*numWinsChessW/numWinsChessB)/1000)
@@ -97,6 +97,9 @@ if 1:
 			res.append('    '[len(x1):] + x1 + "  " + x)
 		res = reversed(sorted(res))
 		print(game)
-		for x in res: print('    ', x)
+		i = 1
+		for x in res:
+			print("%3d   %s" % (i, x))
+			i+=1
 	printSorted(sumsChess,"Chess:")
 	printSorted(sumsChpok,"Chpok:")
