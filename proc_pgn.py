@@ -9,9 +9,10 @@ numDrawsChpok = numWinsChpokW = numWinsChpokB = 0
 def findName(n):
 	names = n.split(',')
 	if len(names)==1:  names = n.split(' ')
-	lastName = names[0].strip()
-	firstName = names[1].strip()
-	n = lastName + ', ' + firstName
+	if len(names) > 1:
+		lastName = names[0].strip()
+		firstName = names[1].strip()
+		n = lastName + ', ' + firstName
 	if n in sumsChess:  return n
 	for k in sumsChess.keys():
 		if k.startswith(n):  # k is longer than n
@@ -32,21 +33,21 @@ for li in f:
 		elif li[1:7]=='Result':  curRes,curLog = li[9:-3],""
 	elif len(li)!=1:  curLog += li.strip() + ' '
 	elif len(curLog):
-		#print(curW, curB, curRes, curLog)
-		for x in curLog:
-			if x=="=":     numPro0 += 1
-			if x in "+#":  numChk0 += 1
 		curW = findName(curW)
 		curB = findName(curB)
-
+		#print(curW, curB, curRes, curLog)
 		if curRes=='1/2-1/2':  upd1,upd2,numDrawsChess = curW,curB,numDrawsChess+1
 		elif curRes=='1-0':    upd1,upd2,numWinsChessW = curW,curW,numWinsChessW+1
 		elif curRes=='0-1':    upd1,upd2,numWinsChessB = curB,curB,numWinsChessB+1
 		else:
 			print("Error! result is:", curRes)
-			break
+			continue
 		sumsChess[upd1] += 1
 		sumsChess[upd2] += 1
+
+		for x in curLog:
+			if x=="=":     numPro0 += 1
+			if x in "+#":  numChk0 += 1
 
 		moves = curLog.strip().split(' ')
 		if moves[-1] != curRes:
@@ -79,7 +80,9 @@ for li in f:
 		sumsChpok[upd1] += 1
 		sumsChpok[upd2] += 1
 
-assert(numPro0==numProms and numChk0==numChecks and numMoves%2==0)
+assert(numPro0==numProms)
+assert(numChk0==numChecks)
+assert(numMoves%2==0)
 print(numGames, "games.", numChecks, "checks,", numProms, "promotions.", numMoves>>1, "pairs of moves =>", round(50*numMoves/numGames)/100, "per game.", end='')
 print(" Draws-Chess:", numDrawsChess, "=>", round(10000*numDrawsChess/numGames)/100, "%.", end='')
 print(" Draws-Chpok:", numDrawsChpok, "=>", round(10000*numDrawsChpok/numGames)/100, "%.")
