@@ -1,33 +1,33 @@
-91 games. 528 checks, 4 promotions. 4078 pairs of moves => 44.81 per game. Draws-Chess: 45 => 49.45 %. Draws-Chpok: 2 => 2.2 %.
+91 games. 528 checks, 4 promotions. 4078 pairs of moves => 44.81 per game. Draws-Chess: 45 => 49.45 %, Draws-Chpok: 2 => 2.2 %.
  Chess White/Black wins: 28 / 18 => 1.556
  Chpok White/Black wins: 47 / 42 => 1.119
 Chess:
-       18  Carlsen, Magnus
-       17  Vachier-Lagrave, Maxime
-       17  So, Wesley
-       17  Giri, Anish
-       17  Ding, Liren
-       15  Ivanchuk, Vassily
-       14  Caruana, Fabiano
-       12  Radjabov, Teimour
-       11  Wojtaszek, Radoslaw
-       11  Aronian, Levon
-       10  Hou, Yifan
-        9  Saric, Ivan
-        8  Van Wely, Loek
-        6  Jobava, Baadur
+  1     18  Carlsen, Magnus
+  2     17  Vachier-Lagrave, Maxime
+  3     17  So, Wesley
+  4     17  Giri, Anish
+  5     17  Ding, Liren
+  6     15  Ivanchuk, Vassily
+  7     14  Caruana, Fabiano
+  8     12  Radjabov, Teimour
+  9     11  Wojtaszek, Radoslaw
+ 10     11  Aronian, Levon
+ 11     10  Hou, Yifan
+ 12      9  Saric, Ivan
+ 13      8  Van Wely, Loek
+ 14      6  Jobava, Baadur
 Chpok:
-       17  So, Wesley
-       16  Vachier-Lagrave, Maxime
-       16  Jobava, Baadur
-       15  Hou, Yifan
-       14  Van Wely, Loek
-       14  Radjabov, Teimour
-       14  Ivanchuk, Vassily
-       14  Giri, Anish
-       14  Aronian, Levon
-       13  Caruana, Fabiano
-       10  Wojtaszek, Radoslaw
-       10  Ding, Liren
-        8  Carlsen, Magnus
-        7  Saric, Ivan
+  1     17  So, Wesley
+  2     16  Vachier-Lagrave, Maxime
+  3     16  Jobava, Baadur
+  4     15  Hou, Yifan
+  5     14  Van Wely, Loek
+  6     14  Radjabov, Teimour
+  7     14  Ivanchuk, Vassily
+  8     14  Giri, Anish
+  9     14  Aronian, Levon
+ 10     13  Caruana, Fabiano
+ 11     10  Wojtaszek, Radoslaw
+ 12     10  Ding, Liren
+ 13      8  Carlsen, Magnus
+ 14      7  Saric, Ivan

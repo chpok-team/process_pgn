@@ -1,33 +1,33 @@
-91 games. 420 checks, 9 promotions. 4023 pairs of moves => 44.21 per game. Draws-Chess: 52 => 57.14 %. Draws-Chpok: 2 => 2.2 %.
+91 games. 420 checks, 9 promotions. 4023 pairs of moves => 44.21 per game. Draws-Chess: 52 => 57.14 %, Draws-Chpok: 2 => 2.2 %.
  Chess White/Black wins: 22 / 17 => 1.294
  Chpok White/Black wins: 51 / 38 => 1.342
 Chess:
-       18  Aronian, Levon
-       16  Radjabov, Teimour
-       16  Caruana, Fabiano
-       16  Carlsen, Magnus
-       15  Nakamura, Hikaru
-       15  Ivanchuk, Vassily
-       14  Kamsky, Gata
-       13  Karjakin, Sergey
-       11  Van Wely, Loek
-       10  Topalov, Veselin
-       10  Gelfand, Boris
-       10  Gashimov, Vugar
-        9  Navara, David
-        9  Giri, Anish
+  1     18  Aronian, Levon
+  2     16  Radjabov, Teimour
+  3     16  Caruana, Fabiano
+  4     16  Carlsen, Magnus
+  5     15  Nakamura, Hikaru
+  6     15  Ivanchuk, Vassily
+  7     14  Kamsky, Gata
+  8     13  Karjakin, Sergey
+  9     11  Van Wely, Loek
+ 10     10  Topalov, Veselin
+ 11     10  Gelfand, Boris
+ 12     10  Gashimov, Vugar
+ 13      9  Navara, David
+ 14      9  Giri, Anish
 Chpok:
-       20  Kamsky, Gata
-       20  Gashimov, Vugar
-       19  Caruana, Fabiano
-       17  Radjabov, Teimour
-       17  Gelfand, Boris
-       16  Topalov, Veselin
-       15  Aronian, Levon
-       12  Nakamura, Hikaru
-       10  Van Wely, Loek
-       10  Ivanchuk, Vassily
-        8  Navara, David
-        8  Karjakin, Sergey
-        8  Carlsen, Magnus
-        2  Giri, Anish
+  1     20  Kamsky, Gata
+  2     20  Gashimov, Vugar
+  3     19  Caruana, Fabiano
+  4     17  Radjabov, Teimour
+  5     17  Gelfand, Boris
+  6     16  Topalov, Veselin
+  7     15  Aronian, Levon
+  8     12  Nakamura, Hikaru
+  9     10  Van Wely, Loek
+ 10     10  Ivanchuk, Vassily
+ 11      8  Navara, David
+ 12      8  Karjakin, Sergey
+ 13      8  Carlsen, Magnus
+ 14      2  Giri, Anish

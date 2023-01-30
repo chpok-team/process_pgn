@@ -1,33 +1,33 @@
-91 games. 376 checks, 3 promotions. 4175 pairs of moves => 45.88 per game. Draws-Chess: 50 => 54.95 %. Draws-Chpok: 4 => 4.4 %.
+91 games. 376 checks, 3 promotions. 4175 pairs of moves => 45.88 per game. Draws-Chess: 50 => 54.95 %, Draws-Chpok: 4 => 4.4 %.
  Chess White/Black wins: 28 / 13 => 2.154
  Chpok White/Black wins: 45 / 42 => 1.071
 Chess:
-       20  Carlsen, Magnus
-       17  Aronian, Levon
-       16  Karjakin, Sergey
-       16  Anand, Viswanathan
-       15  Leko, Peter
-       14  Nakamura, Hikaru
-       13  Harikrishna, Pentala
-       12  Wang, Hao
-       12  Van Wely, Loek
-       12  Giri, Anish
-       11  Hou, Yifan
-       10  Caruana, Fabiano
-        8  L'Ami, Erwin
-        6  Sokolov, Ivan
+  1     20  Carlsen, Magnus
+  2     17  Aronian, Levon
+  3     16  Karjakin, Sergey
+  4     16  Anand, Viswanathan
+  5     15  Leko, Peter
+  6     14  Nakamura, Hikaru
+  7     13  Harikrishna, Pentala
+  8     12  Wang, Hao
+  9     12  Van Wely, Loek
+ 10     12  Giri, Anish
+ 11     11  Hou, Yifan
+ 12     10  Caruana, Fabiano
+ 13      8  L'Ami, Erwin
+ 14      6  Sokolov, Ivan
 Chpok:
-       19  Sokolov, Ivan
-       16  Wang, Hao
-       16  Nakamura, Hikaru
-       16  Hou, Yifan
-       16  Aronian, Levon
-       16  Anand, Viswanathan
-       15  Leko, Peter
-       15  Carlsen, Magnus
-       14  Karjakin, Sergey
-       12  Harikrishna, Pentala
-        9  Van Wely, Loek
-        8  Caruana, Fabiano
-        6  L'Ami, Erwin
-        4  Giri, Anish
+  1     19  Sokolov, Ivan
+  2     16  Wang, Hao
+  3     16  Nakamura, Hikaru
+  4     16  Hou, Yifan
+  5     16  Aronian, Levon
+  6     16  Anand, Viswanathan
+  7     15  Leko, Peter
+  8     15  Carlsen, Magnus
+  9     14  Karjakin, Sergey
+ 10     12  Harikrishna, Pentala
+ 11      9  Van Wely, Loek
+ 12      8  Caruana, Fabiano
+ 13      6  L'Ami, Erwin
+ 14      4  Giri, Anish

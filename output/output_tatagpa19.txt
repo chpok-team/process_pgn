@@ -1,33 +1,33 @@
-91 games. 420 checks, 2 promotions. 3848 pairs of moves => 42.29 per game. Draws-Chess: 54 => 59.34 %. Draws-Chpok: 4 => 4.4 %.
+91 games. 420 checks, 2 promotions. 3848 pairs of moves => 42.29 per game. Draws-Chess: 54 => 59.34 %, Draws-Chpok: 4 => 4.4 %.
  Chess White/Black wins: 20 / 17 => 1.176
  Chpok White/Black wins: 48 / 39 => 1.231
 Chess:
-       18  Carlsen, Magnus
-       17  Giri, Anish
-       15  Nepomniachtchi, Ian
-       15  Ding, Liren
-       15  Anand, Viswanathan
-       14  Vidit, Santosh Gujrathi
-       13  Shankland, Samuel
-       13  Rapport, Richard
-       13  Radjabov, Teimour
-       11  Duda, Jan-Krzysztof
-       10  Mamedyarov, Shakhriyar
-       10  Fedoseev, Vladimir3
-        9  Van Foreest, Jorden
-        9  Kramnik, Vladimir
+  1     18  Carlsen, Magnus
+  2     17  Giri, Anish
+  3     15  Nepomniachtchi, Ian
+  4     15  Ding, Liren
+  5     15  Anand, Viswanathan
+  6     14  Vidit, Santosh Gujrathi
+  7     13  Shankland, Samuel
+  8     13  Rapport, Richard
+  9     13  Radjabov, Teimour
+ 10     11  Duda, Jan-Krzysztof
+ 11     10  Mamedyarov, Shakhriyar
+ 12     10  Fedoseev, Vladimir3
+ 13      9  Van Foreest, Jorden
+ 14      9  Kramnik, Vladimir
 Chpok:
-       17  Van Foreest, Jorden
-       17  Anand, Viswanathan
-       16  Vidit, Santosh Gujrathi
-       16  Nepomniachtchi, Ian
-       16  Kramnik, Vladimir
-       16  Giri, Anish
-       16  Duda, Jan-Krzysztof
-       12  Rapport, Richard
-       11  Radjabov, Teimour
-       11  Ding, Liren
-       10  Shankland, Samuel
-        9  Mamedyarov, Shakhriyar
-        8  Fedoseev, Vladimir3
-        7  Carlsen, Magnus
+  1     17  Van Foreest, Jorden
+  2     17  Anand, Viswanathan
+  3     16  Vidit, Santosh Gujrathi
+  4     16  Nepomniachtchi, Ian
+  5     16  Kramnik, Vladimir
+  6     16  Giri, Anish
+  7     16  Duda, Jan-Krzysztof
+  8     12  Rapport, Richard
+  9     11  Radjabov, Teimour
+ 10     11  Ding, Liren
+ 11     10  Shankland, Samuel
+ 12      9  Mamedyarov, Shakhriyar
+ 13      8  Fedoseev, Vladimir3
+ 14      7  Carlsen, Magnus

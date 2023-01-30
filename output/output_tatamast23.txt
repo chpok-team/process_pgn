@@ -1,0 +1,33 @@
+91 games. 505 checks, 8 promotions. 4184 pairs of moves => 45.98 per game. Draws-Chess: 59 => 64.84 %, Draws-Chpok: 3 => 3.3 %.
+ Chess White/Black wins: 17 / 15 => 1.133
+ Chpok White/Black wins: 46 / 42 => 1.095
+Chess:
+  1     17  Giri, Anish
+  2     16  Carlsen, Magnus
+  3     16  Abdusattorov, Nodirbek
+  4     15  So, Wesley
+  5     14  Maghsoodloo, Parham
+  6     14  Caruana, Fabiano
+  7     13  Rapport, Richard
+  8     13  Aronian, Levon
+  9     12  Van Foreest, Jorden
+ 10     12  Praggnanandhaa, R
+ 11     11  Gukesh, D
+ 12     11  Ding, Liren
+ 13     10  Keymer, Vincent
+ 14      8  Erigaisi, Arjun
+Chpok:
+  1     19  Caruana, Fabiano
+  2     18  Giri, Anish
+  3     17  Rapport, Richard
+  4     16  Praggnanandhaa, R
+  5     14  Maghsoodloo, Parham
+  6     14  Carlsen, Magnus
+  7     14  Aronian, Levon
+  8     14  Abdusattorov, Nodirbek
+  9     11  Keymer, Vincent
+ 10     10  So, Wesley
+ 11     10  Erigaisi, Arjun
+ 12     10  Ding, Liren
+ 13      9  Gukesh, D
+ 14      6  Van Foreest, Jorden

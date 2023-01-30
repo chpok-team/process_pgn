@@ -1,33 +1,33 @@
-87 games. 346 checks, 5 promotions. 3480 pairs of moves => 40.0 per game. Draws-Chess: 49 => 56.32 %. Draws-Chpok: 6 => 6.9 %.
+87 games. 346 checks, 5 promotions. 3480 pairs of moves => 40.0 per game. Draws-Chess: 49 => 56.32 %, Draws-Chpok: 6 => 6.9 %.
  Chess White/Black wins: 26 / 16 => 1.625
  Chpok White/Black wins: 52 / 29 => 1.793
 Chess:
-       19  Carlsen, Magnus
-       16  Rapport, Richard
-       16  Mamedyarov, Shakhriyar
-       15  Giri, Anish
-       14  Van Foreest, Jorden
-       14  Karjakin, Sergey
-       13  Esipenko, Andrey
-       13  Caruana, Fabiano
-       12  Vidit, Santosh Gujrathi
-       12  Duda, Jan-Krzysztof
-       11  Shankland, Sam
-       11  Praggnanandhaa, R
-        9  Grandelius, Nils
-        7  Dubov, Daniil
+  1     19  Carlsen, Magnus
+  2     16  Rapport, Richard
+  3     16  Mamedyarov, Shakhriyar
+  4     15  Giri, Anish
+  5     14  Van Foreest, Jorden
+  6     14  Karjakin, Sergey
+  7     13  Esipenko, Andrey
+  8     13  Caruana, Fabiano
+  9     12  Vidit, Santosh Gujrathi
+ 10     12  Duda, Jan-Krzysztof
+ 11     11  Shankland, Sam
+ 12     11  Praggnanandhaa, R
+ 13      9  Grandelius, Nils
+ 14      7  Dubov, Daniil
 Chpok:
-       19  Carlsen, Magnus
-       18  Praggnanandhaa, R
-       14  Mamedyarov, Shakhriyar
-       14  Dubov, Daniil
-       14  Caruana, Fabiano
-       13  Vidit, Santosh Gujrathi
-       13  Van Foreest, Jorden
-       11  Shankland, Sam
-       11  Karjakin, Sergey
-       11  Giri, Anish
-       11  Esipenko, Andrey
-       10  Rapport, Richard
-       10  Duda, Jan-Krzysztof
-        5  Grandelius, Nils
+  1     19  Carlsen, Magnus
+  2     18  Praggnanandhaa, R
+  3     14  Mamedyarov, Shakhriyar
+  4     14  Dubov, Daniil
+  5     14  Caruana, Fabiano
+  6     13  Vidit, Santosh Gujrathi
+  7     13  Van Foreest, Jorden
+  8     11  Shankland, Sam
+  9     11  Karjakin, Sergey
+ 10     11  Giri, Anish
+ 11     11  Esipenko, Andrey
+ 12     10  Rapport, Richard
+ 13     10  Duda, Jan-Krzysztof
+ 14      5  Grandelius, Nils

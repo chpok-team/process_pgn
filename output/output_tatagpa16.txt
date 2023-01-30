@@ -1,33 +1,33 @@
-91 games. 411 checks, 5 promotions. 4103 pairs of moves => 45.09 per game. Draws-Chess: 61 => 67.03 %. Draws-Chpok: 2 => 2.2 %.
+91 games. 411 checks, 5 promotions. 4103 pairs of moves => 45.09 per game. Draws-Chess: 61 => 67.03 %, Draws-Chpok: 2 => 2.2 %.
  Chess White/Black wins: 22 / 8 => 2.75
  Chpok White/Black wins: 46 / 43 => 1.07
 Chess:
-       18  Carlsen, M
-       16  Ding, Liren
-       16  Caruana, F
-       14  So, W
-       14  Giri, A
-       14  Eljanov, P
-       13  Wei, Yi
-       13  Mamedyarov, S
-       12  Karjakin, Sergey
-       11  Tomashevsky, E
-       11  Navara, D
-       10  Van Wely, L
-       10  Hou, Yifan
-       10  Adams, Mi
+  1     18  Carlsen, M
+  2     16  Ding, Liren
+  3     16  Caruana, F
+  4     14  So, W
+  5     14  Giri, A
+  6     14  Eljanov, P
+  7     13  Wei, Yi
+  8     13  Mamedyarov, S
+  9     12  Karjakin, Sergey
+ 10     11  Tomashevsky, E
+ 11     11  Navara, D
+ 12     10  Van Wely, L
+ 13     10  Hou, Yifan
+ 14     10  Adams, Mi
 Chpok:
-       18  Eljanov, P
-       18  Ding, Liren
-       18  Carlsen, M
-       16  Van Wely, L
-       16  Tomashevsky, E
-       16  Caruana, F
-       14  Karjakin, Sergey
-       14  Adams, Mi
-       12  So, W
-       11  Navara, D
-       10  Wei, Yi
-        8  Giri, A
-        7  Mamedyarov, S
-        4  Hou, Yifan
+  1     18  Eljanov, P
+  2     18  Ding, Liren
+  3     18  Carlsen, M
+  4     16  Van Wely, L
+  5     16  Tomashevsky, E
+  6     16  Caruana, F
+  7     14  Karjakin, Sergey
+  8     14  Adams, Mi
+  9     12  So, W
+ 10     11  Navara, D
+ 11     10  Wei, Yi
+ 12      8  Giri, A
+ 13      7  Mamedyarov, S
+ 14      4  Hou, Yifan

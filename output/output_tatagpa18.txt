@@ -1,33 +1,33 @@
-91 games. 365 checks, 1 promotions. 3788 pairs of moves => 41.63 per game. Draws-Chess: 55 => 60.44 %. Draws-Chpok: 4 => 4.4 %.
+91 games. 365 checks, 1 promotions. 3788 pairs of moves => 41.63 per game. Draws-Chess: 55 => 60.44 %, Draws-Chpok: 4 => 4.4 %.
  Chess White/Black wins: 25 / 11 => 2.273
  Chpok White/Black wins: 58 / 29 => 2.0
 Chess:
-       18  Giri, Anish
-       18  Carlsen, Magnus
-       17  Mamedyarov, Shakhriyar
-       17  Kramnik, Vladimir
-       16  So, Wesley
-       16  Anand, Viswanathan
-       15  Karjakin, Sergey
-       12  Svidler, Peter
-       11  Wei, Yi
-       10  Matlakov, Maxim
-       10  Jones, Gawain C B
-       10  Caruana, Fabiano
-        7  Adhiban, Baskaran
-        5  Hou, Yifan
+  1     18  Giri, Anish
+  2     18  Carlsen, Magnus
+  3     17  Mamedyarov, Shakhriyar
+  4     17  Kramnik, Vladimir
+  5     16  So, Wesley
+  6     16  Anand, Viswanathan
+  7     15  Karjakin, Sergey
+  8     12  Svidler, Peter
+  9     11  Wei, Yi
+ 10     10  Matlakov, Maxim
+ 11     10  Jones, Gawain C B
+ 12     10  Caruana, Fabiano
+ 13      7  Adhiban, Baskaran
+ 14      5  Hou, Yifan
 Chpok:
-       17  Mamedyarov, Shakhriyar
-       17  Karjakin, Sergey
-       16  So, Wesley
-       15  Giri, Anish
-       14  Svidler, Peter
-       14  Kramnik, Vladimir
-       14  Jones, Gawain C B
-       14  Caruana, Fabiano
-       14  Carlsen, Magnus
-       13  Matlakov, Maxim
-       12  Adhiban, Baskaran
-       10  Anand, Viswanathan
-        6  Wei, Yi
-        6  Hou, Yifan
+  1     17  Mamedyarov, Shakhriyar
+  2     17  Karjakin, Sergey
+  3     16  So, Wesley
+  4     15  Giri, Anish
+  5     14  Svidler, Peter
+  6     14  Kramnik, Vladimir
+  7     14  Jones, Gawain C B
+  8     14  Caruana, Fabiano
+  9     14  Carlsen, Magnus
+ 10     13  Matlakov, Maxim
+ 11     12  Adhiban, Baskaran
+ 12     10  Anand, Viswanathan
+ 13      6  Wei, Yi
+ 14      6  Hou, Yifan
